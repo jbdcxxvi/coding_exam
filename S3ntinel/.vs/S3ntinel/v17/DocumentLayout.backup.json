@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\S3ntinel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D160614-5684-4E7D-BB40-2448522AE5B9}|S3ntinel.Test\\S3ntinel.Test.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D160614-5684-4E7D-BB40-2448522AE5B9}|S3ntinel.Test\\S3ntinel.Test.csproj|solutionrelative:s3ntinel.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.infrastructure\\windowsserverchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|solutionrelative:s3ntinel.infrastructure\\windowsserverchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D160614-5684-4E7D-BB40-2448522AE5B9}|S3ntinel.Test\\S3ntinel.Test.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.test\\s3ntinel.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D160614-5684-4E7D-BB40-2448522AE5B9}|S3ntinel.Test\\S3ntinel.Test.csproj|solutionrelative:s3ntinel.test\\s3ntinel.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.application\\configs\\monitoring_configs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|solutionrelative:s3ntinel.application\\configs\\monitoring_configs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.infrastructure\\linuxserverchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|solutionrelative:s3ntinel.infrastructure\\linuxserverchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|solutionrelative:s3ntinel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.webapi\\controllers\\servermonitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|solutionrelative:s3ntinel.webapi\\controllers\\servermonitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.application\\services\\servercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|solutionrelative:s3ntinel.application\\services\\servercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.application\\s3ntinel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|solutionrelative:s3ntinel.application\\s3ntinel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.infrastructure\\s3ntinel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99F33B9C-831B-4029-B314-EB28164C18B5}|S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj|solutionrelative:s3ntinel.infrastructure\\s3ntinel.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.webapi\\s3ntinel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|solutionrelative:s3ntinel.webapi\\s3ntinel.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5848CF82-76AF-47DF-B584-EB0421145D01}|S3ntinel.Domain\\S3ntinel.Domain.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.domain\\models\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5848CF82-76AF-47DF-B584-EB0421145D01}|S3ntinel.Domain\\S3ntinel.Domain.csproj|solutionrelative:s3ntinel.domain\\models\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.application\\interface\\iservercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A64460-1AF0-492F-BA5A-238C7C0CB3DE}|S3ntinel.Application\\S3ntinel.Application.csproj|solutionrelative:s3ntinel.application\\interface\\iservercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5848CF82-76AF-47DF-B584-EB0421145D01}|S3ntinel.Domain\\S3ntinel.Domain.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.domain\\interfaces\\iservermonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5848CF82-76AF-47DF-B584-EB0421145D01}|S3ntinel.Domain\\S3ntinel.Domain.csproj|solutionrelative:s3ntinel.domain\\interfaces\\iservermonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|solutionrelative:s3ntinel.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|c:\\users\\josep\\source\\repos\\s3ntinel\\s3ntinel.webapi\\s3ntinel.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CDF7255D-65E9-4179-9B31-B7319344EB3C}|S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj|solutionrelative:s3ntinel.webapi\\s3ntinel.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "S3ntinel.Test",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Test\\S3ntinel.Test.csproj",
+              "RelativeDocumentMoniker": "S3ntinel.Test\\S3ntinel.Test.csproj",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Test\\S3ntinel.Test.csproj",
+              "RelativeToolTip": "S3ntinel.Test\\S3ntinel.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T23:44:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Test\\UnitTest1.cs",
+              "RelativeToolTip": "S3ntinel.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAjwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:18:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "S3ntinel.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj",
+              "RelativeToolTip": "S3ntinel.Infrastructure\\S3ntinel.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T20:46:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinuxServerChecker.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\LinuxServerChecker.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Infrastructure\\LinuxServerChecker.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\LinuxServerChecker.cs",
+              "RelativeToolTip": "S3ntinel.Infrastructure\\LinuxServerChecker.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:56:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServerCheckService.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Interface\\IServerCheckService.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Application\\Interface\\IServerCheckService.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Interface\\IServerCheckService.cs",
+              "RelativeToolTip": "S3ntinel.Application\\Interface\\IServerCheckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:37:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServerMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Domain\\Interfaces\\IServerMonitor.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Domain\\Interfaces\\IServerMonitor.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Domain\\Interfaces\\IServerMonitor.cs",
+              "RelativeToolTip": "S3ntinel.Domain\\Interfaces\\IServerMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:37:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Domain\\Models\\ServerConfig.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Domain\\Models\\ServerConfig.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Domain\\Models\\ServerConfig.cs",
+              "RelativeToolTip": "S3ntinel.Domain\\Models\\ServerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:51:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "monitoring_configs.json",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Configs\\monitoring_configs.json",
+              "RelativeDocumentMoniker": "S3ntinel.Application\\Configs\\monitoring_configs.json",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Configs\\monitoring_configs.json",
+              "RelativeToolTip": "S3ntinel.Application\\Configs\\monitoring_configs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T20:30:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerMonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\Controllers\\ServerMonitorController.cs",
+              "RelativeDocumentMoniker": "S3ntinel.WebAPI\\Controllers\\ServerMonitorController.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\Controllers\\ServerMonitorController.cs",
+              "RelativeToolTip": "S3ntinel.WebAPI\\Controllers\\ServerMonitorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:54:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "S3ntinel.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\Program.cs",
+              "RelativeToolTip": "S3ntinel.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:02:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsServerChecker.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\WindowsServerChecker.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Infrastructure\\WindowsServerChecker.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Infrastructure\\WindowsServerChecker.cs",
+              "RelativeToolTip": "S3ntinel.Infrastructure\\WindowsServerChecker.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:57:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServerCheckService.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Services\\ServerCheckService.cs",
+              "RelativeDocumentMoniker": "S3ntinel.Application\\Services\\ServerCheckService.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\Services\\ServerCheckService.cs",
+              "RelativeToolTip": "S3ntinel.Application\\Services\\ServerCheckService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:29:21.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "S3ntinel.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\S3ntinel.Application.csproj",
+              "RelativeDocumentMoniker": "S3ntinel.Application\\S3ntinel.Application.csproj",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.Application\\S3ntinel.Application.csproj",
+              "RelativeToolTip": "S3ntinel.Application\\S3ntinel.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T21:07:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "S3ntinel.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj",
+              "RelativeDocumentMoniker": "S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj",
+              "RelativeToolTip": "S3ntinel.WebAPI\\S3ntinel.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T20:54:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "S3ntinel.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\appsettings.json",
+              "RelativeToolTip": "S3ntinel.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:44:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "S3ntinel.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\S3ntinel.WebAPI.http",
+              "RelativeDocumentMoniker": "S3ntinel.WebAPI\\S3ntinel.WebAPI.http",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\S3ntinel\\S3ntinel.WebAPI\\S3ntinel.WebAPI.http",
+              "RelativeToolTip": "S3ntinel.WebAPI\\S3ntinel.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-19T01:10:46.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@S3ntinel.WebAPI_HostAddress = http://localhost:5174
+
+GET {{S3ntinel.WebAPI_HostAddress}}/servermonitor/
+Accept: application/json
+
+###

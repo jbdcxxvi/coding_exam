@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "S3ntinel.WebAPI.Controllers.ServerMonitorController",
+    "Method": "MonitorServers",
+    "RelativePath": "api/ServerMonitor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "MonitorServers"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\bin\Debug\net8.0\S3ntinel.Infrastructure.deps.json
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\bin\Debug\net8.0\S3ntinel.Infrastructure.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\bin\Debug\net8.0\S3ntinel.Infrastructure.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\bin\Debug\net8.0\S3ntinel.Domain.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\bin\Debug\net8.0\S3ntinel.Domain.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.AssemblyInfo.cs
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.DE57BBEB.Up2Date
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\refint\S3ntinel.Infrastructure.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\S3ntinel.Infrastructure.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Infrastructure\obj\Debug\net8.0\ref\S3ntinel.Infrastructure.dll

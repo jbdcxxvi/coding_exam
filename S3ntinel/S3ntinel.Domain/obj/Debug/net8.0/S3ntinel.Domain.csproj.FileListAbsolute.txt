@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\bin\Debug\net8.0\S3ntinel.Domain.deps.json
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\bin\Debug\net8.0\S3ntinel.Domain.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\bin\Debug\net8.0\S3ntinel.Domain.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.AssemblyInfo.cs
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\refint\S3ntinel.Domain.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\S3ntinel.Domain.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Domain\obj\Debug\net8.0\ref\S3ntinel.Domain.dll

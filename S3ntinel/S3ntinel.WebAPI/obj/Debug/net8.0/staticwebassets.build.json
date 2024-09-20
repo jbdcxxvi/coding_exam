@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7pxd1KkTHHWD3t0JljxomujZ9L+rcamM6/89d7Ibkhk=",
+  "Source": "S3ntinel.WebAPI",
+  "BasePath": "_content/S3ntinel.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

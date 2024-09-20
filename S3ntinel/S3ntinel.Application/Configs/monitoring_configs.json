@@ -1,0 +1,43 @@
+[
+  //Templates for Monitoring Configurations
+  //Linux Server Sample
+  {
+    "Name": "Server_2",
+    "Hostname": "192.168.1.69",
+    "Type": "Linux",
+    "Services": [
+      "apache2",    //apache2 web service
+      "sshd",       //ssh service
+      "nginx"       //nginx web service
+    ],
+    "UserName": "jbdcxxvi",
+    "PrivateKeyPath": "C:\\.ssh\\private_key.pem",
+    "PassPhrase": ""
+  },
+  //Windows Sample
+  {
+    "Name": "Local_Server",
+    "Hostname": "192.168.1.65",
+    "Type": "Windows",
+    "Services": [
+      "w3svc",        //IIS Web service
+      "sshd",         //ssh service
+      "Appinfo",      //additional service for testing
+      "wuauserv"      //windows update service
+    ]
+  },
+  //AWS EC2 Linux Server Sample
+  {
+    "Name": "Web_Server",
+    "Hostname": "ec2-54-224-80-100.compute-1.amazonaws.com",
+    "Type": "Linux",
+    "Services": [
+      "apache2",  //apache2 web service
+      "sshd",     //ssh service
+      "nginx"     //nginx web service
+    ],
+    "UserName": "ec2-user",
+    "PrivateKeyPath": "C:\\.ssh\\aws_private_key.pem",
+    "PassPhrase": ""
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Application.deps.json
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Application.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Application.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Domain.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Infrastructure.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Domain.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\bin\Debug\net8.0\S3ntinel.Infrastructure.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.AssemblyInfo.cs
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.EC64BB91.Up2Date
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\refint\S3ntinel.Application.dll
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\S3ntinel.Application.pdb
+C:\Users\josep\source\repos\S3ntinel\S3ntinel.Application\obj\Debug\net8.0\ref\S3ntinel.Application.dll
